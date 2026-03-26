@@ -42,7 +42,7 @@ AI Engineer at **Cognilium AI**, building products like ProspectVox AI and Vorta
 
 ---
 
-<p align="center">
+<p align="center">  
   <a href="https://www.upwork.com/freelancers/shafigill16">Upwork</a> ·
   <a href="mailto:shafigill16@gmail.com">Email</a>
 </p>
